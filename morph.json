@@ -32,7 +32,7 @@
     }
   },
   
-  "MinecraftData": {
+  "MCPEData": {
     "Addons": [
       {
         "title": "AG's Morph Mobs Addon",
@@ -52,7 +52,7 @@
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morph%20Addon%20Official%201.0/164767.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Supported Minecraft versions : 1.17+",
+        "description": "Supported MCPE versions : 1.17+",
         "preview": [
           "https://api.mcpedl.com/storage/submissions/27222/105/logo_1-520x245.png"
         ]
@@ -121,7 +121,7 @@
     "status": false,
     "apps": [
       {
-        "name": "Minecraft PE skyblock",
+        "name": "MCPE PE skyblock",
         "packageName": "com.adobe.air",
         "icon": "https://play-lh.googleusercontent.com/_KVgzJrTgMAgtOVMWUtOTbJjFv2H8BVAzIWX73mTkZglztux4F0yHO0OH_L7auFf3A=w240-h480",
         "download": "+100 K"
