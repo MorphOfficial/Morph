@@ -1,37 +1,27 @@
-
 {
   "appRedirect": {
     "status": false,
     "redirectURL": "http://www.amazon.com/gp/mas/dl/android?p=com.adobe.air"
   },
-
   "AdsController": {
-    
     "README": "To run ads for each network, enter one of the following: 'admob', 'applovin', or 'hws'.",
-    
     "AdInterval": 1,
-    
-    "BannerNetwork"      : "hws",
+    "BannerNetwork": "hws",
     "InterstitialNetwork": "hws",
-    "RewardNetwork"      : "hws",
-    
+    "RewardNetwork": "hws",
     "AdPlacement": {
-      
       "AdMobBanner": "ca-app-pub-3940256099942544/630097811112",
       "AdMobInterstitialAd": "ca-app-pub-3940256099942544/103317371213",
       "AdMobRewardAd": "ca-app-pub-3940256099942544/522435491755",
-      
       "ApplovinKey": "10PlbbIo7l002Tx39uGBD0B0T5Tzxnfyn4hNg-9okAoneiqpb5-q59qZFNXB8C7wGqHxoRiVbVGFD42p91cFBR",
       "ApplovinBanner": "da17eff31ae69f15",
       "ApplovinInterstitialAd": "98f6a586ed642919",
       "ApplovinRewardAd": "98f6a586ed642919",
-      
       "HuaweiBanner": "testw6vs28auh355",
       "HuaweiInterstitialAd": "testb4znbuh3n255",
       "HuaweiRewardAd": "testx9dtjwj8hpggg"
     }
   },
-  
   "MCPEData": {
     "Addons": [
       {
@@ -47,7 +37,7 @@
           "https://r2.mcpedl.com/submissions/214539/images/ags-morph-mobs_21.png"
         ]
       },
-          {
+      {
         "title": "Morph Addon Official 1.0 Addon",
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morph%20Addon%20Official%201.0/164767.zip",
         "isLocked": false,
@@ -57,7 +47,7 @@
           "https://api.mcpedl.com/storage/submissions/27222/105/logo_1-520x245.png"
         ]
       },
-           {
+      {
         "title": "Cda's Morph Addon",
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Cda's%20Morph/306274.zip",
         "isLocked": false,
@@ -70,7 +60,7 @@
           "https://r2.mcpedl.com/submissions/106974/images/morph-addon-official-10_4.png"
         ]
       },
-           {
+      {
         "title": "Morphing Bracelet Addon",
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Morphing%20Bracelet/721169.zip",
         "isLocked": false,
@@ -81,7 +71,7 @@
           "https://r2.mcpedl.com/submissions/232660/images/morphing-bracelet-beta_2.png"
         ]
       },
-               {
+      {
         "title": "Item Morph Addon",
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Item%20Morph%20Addon/718908.zip",
         "isLocked": false,
@@ -94,7 +84,7 @@
           "https://r2.mcpedl.com/submissions/225402/images/item-morph-addon_3.jpeg"
         ]
       },
-               {
+      {
         "title": "Poké Morph Addon",
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/Pokemon%20Morph%20Addon/pokemon1.zip",
         "isLocked": false,
@@ -104,7 +94,7 @@
           "https://api.mcpedl.com/storage/submissions/84224/100/fsafasfsafasfasff_1-520x245.png"
         ]
       },
-               {
+      {
         "title": "The Ultimate Morph Addon",
         "addonLink": "https://github.com/trendradarhub/Jennifer-Carroll/raw/refs/heads/main/Morph/The%20Ultimate%20Morph/morph.zip",
         "isLocked": false,
@@ -116,7 +106,6 @@
       }
     ]
   },
-  
   "AppsPromote": {
     "status": false,
     "apps": [
